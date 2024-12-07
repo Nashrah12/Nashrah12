@@ -1,17 +1,19 @@
-👋 Hi, I'm Nashrah Khanam
 
-💻 Software Tester/QA Engineer
-📚 I have a B.Sc. in Mathematics and Statistics which gives me a strong base in problem-solving and logical thinking.🔍
+👋 Hi, I'm Nashrah Khanam!
 
-🔍 Passionate about software testing, I am enhancing my skills at Masai, where I learn and implement automation testing tools and frameworks like Cypress, Java, TestNG, and Cucumber.
+🎓 Graduate in Mathematics & Statistics
+💻 Currently learning to become an SDET at Masai School
 
-🛠️ Recent projects include end-to-end test automation for web portals and a shopping flow on Automation Test Store using Cypress with the Page Object Model (POM) pattern.
+### 🔧 Tools & Technologies
+- **Testing Tools:** Selenium, Cypress, TestNG, Cucumber
+- **Programming:** Java, JavaScript
+- **Version Control:** Git, GitHub
+- **Others:** Postman, API Testing, BDD
 
-💡 Always excited to explore new testing techniques, collaborate on innovative projects, and contribute to open-source.
+### 📈 Current Projects
+- **Puma Website Testing**: [GitHub Repository](#)  
+- **MovieGate Website Testing**: [GitHub Repository](#)  
 
-📫 Reach me at nashrah980@gmail.com.
-
-🌍 Based in Varanasi, India.
-
-✨ Let's connect and build reliable software together!
-
+### 📫 Contact Me
+- **Email:** nashrah980@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/nashrahkhanam/
