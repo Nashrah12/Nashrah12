@@ -1,28 +1,29 @@
 
-# 👋 Hi there, I'm Nashrah Khanam ☀️  
+# 👋 Hi there, I'm Nashrah Khanam 
 
 ## Welcome to my GitHub Profile! 🚀  
 
 ### 📌 About Me  
-I'm a passionate **Software Development Engineer in Test (SDET)** from Varanasi, India.  
-Currently, I'm honing my skills at **Masai School**, focusing on delivering exceptional software quality through **rigorous testing practices**.  
-
-
+I am a passionate Software Development Engineer in Test (SDET) from Varanasi, India. Currently, I am honing my skills at **Masai School**, striving to ensure exceptional software quality through comprehensive testing methodologies
 
 ### 🛠 Work  
-I completed a manual testing project on the **Puma and MovieGate** websites, performing thorough exploratory testing to ensure functionality and enhance the user experience.  
-I am currently working on **automation projects**, developing and executing test scripts using **Selenium and Cypress** to improve testing efficiency and coverage.  
+I completed a manual testing project on the **MovieGate** websites, performing thorough exploratory testing to ensure functionality and enhance the user experience.  
+I am currently working on **automation projects**, developing and executing test scripts using **Selenium and Cypress** to improve testing efficiency and coverage.    
+## 🚀 Future Endeavors  
 
-### 🚀 Future Endeavors  
-- Expand my automation testing skills.  
-- Explore performance and security testing.  
-- Contribute to open-source testing frameworks.  
+- 🔹 Master advanced automation frameworks using **Cypress** and **Selenium**.  
+- 🔹 Enhance test automation with **CI/CD integration** for seamless deployment.  
+- 🔹 Gain expertise in **API automation testing** using **Postman** and **RestAssured**.  
+- 🔹 Improve skills in writing **efficient and scalable test scripts**.  
+- 🔹 Learn **mobile application testing** with **Appium**.  
+- 🔹 Explore **AI-driven testing techniques** for better automation coverage.  
+- 🔹 Work on **end-to-end testing strategies** to improve software quality.  
+- 🔹 Stay updated with the latest trends in **test automation and DevOps**.  
+ 
 ## 🚀 My Tech Stack  
 
 ### 🔍 Manual Testing:  
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-orange)  
-![Exploratory Testing](https://img.shields.io/badge/Exploratory%20Testing-purple)  
-![Smoke Testing](https://img.shields.io/badge/Smoke%20Testing-red)  
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-orange) ![Exploratory Testing](https://img.shields.io/badge/Exploratory%20Testing-purple) ![Smoke Testing](https://img.shields.io/badge/Smoke%20Testing-red)  
 ![Regression Testing](https://img.shields.io/badge/Regression%20Testing-green)  
 ![Acceptance Testing](https://img.shields.io/badge/Acceptance%20Testing-lightgreen)  
 ![JIRA](https://img.shields.io/badge/JIRA-blue)  
