@@ -48,7 +48,7 @@ I am currently working on **Automation projects**, developing and executing test
 - **API Testing**: Familiar with **Postman** and **RestAssured** to validate API functionality and performance.  
 - **Continuous Learning**: Passionate about staying updated with the latest testing tools, trends, and best practices to enhance software quality.  
 ---
-## 📫 Get in Touch  
+##🤝 Get in Touch  
 
 - 📧 Email: nashrah980@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nashrahkhanam/)
