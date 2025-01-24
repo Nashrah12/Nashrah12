@@ -1,23 +1,25 @@
 
-👋 Hi, I'm Nashrah Khanam!
+# 👋 Hi there, I'm Nashrah Khanam ☀️  
 
-🎓 Graduate in Mathematics & Statistics
+## Welcome to my GitHub Profile! 🚀  
 
-💻 Currently learning to become an SDET at Masai School
+### 📌 About Me  
+I'm a passionate **Software Development Engineer in Test (SDET)** from Varanasi, India.  
+Currently, I'm honing my skills at **Masai School**, focusing on delivering exceptional software quality through **rigorous testing practices**.  
 
-### 🔧 Tools & Technologies
-- **Testing Tools:** Selenium, Cypress, TestNG, Cucumber
-- **Programming:** Java, JavaScript
-- **Version Control:** Git, GitHub
-- **Others:** Postman, API Testing, BDD, POM
+### 📄 My Resume  
+📎 [View My Resume](#) (Replace `#` with the actual link to your resume)
 
-### 📈 Current Projects
-- **MovieGate Website Testing**:https://github.com/Nashrah12/ConstructWeek_39
-- **Puma Website Testing**: https://github.com/Nashrah12/ConstructWeek_40 
-- **Bewakoof Website Testing**:https://github.com/Nashrah12/ConstructWeek_41
-- **Hackathon Project**:https://github.com/Nashrah12/4357_SDET
-- 
+### 🛠 Work  
+I completed a manual testing project on the **Puma and MovieGate** websites, performing thorough exploratory testing to ensure functionality and enhance the user experience.  
+I am currently working on **automation projects**, developing and executing test scripts using **Selenium and Cypress** to improve testing efficiency and coverage.  
 
-### 📫 Contact Me
-- **Email:** nashrah980@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/nashrahkhanam/
+### 🚀 Future Endeavors  
+- Expand my automation testing skills.  
+- Explore performance and security testing.  
+- Contribute to open-source testing frameworks.  
+
+---
+💬 **Let's Connect!**  
+📧 Email: nashrah980@gmail.com  
+💼 [LinkedIn](#) (Replace `#` with your actual LinkedIn profile link)  
