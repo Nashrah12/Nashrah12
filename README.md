@@ -8,7 +8,7 @@ I am a passionate Software Development Engineer in Test (SDET) from Varanasi, In
 
 ### 🛠 Work  
 I completed a manual testing project on the **MovieGate** websites, performing thorough exploratory testing to ensure functionality and enhance the user experience.  
-I am currently working on **automation projects**, developing and executing test scripts using **Selenium and Cypress** to improve testing efficiency and coverage.    
+I am currently working on **Automation projects**, developing and executing test scripts using **Selenium and Cypress** to improve testing efficiency and coverage.    
 ## 🚀 Future Endeavors  
 
 -  Master advanced automation frameworks using **Cypress** and **Selenium**.  
@@ -48,6 +48,9 @@ I am currently working on **automation projects**, developing and executing test
 - **API Testing**: Familiar with **Postman** and **RestAssured** to validate API functionality and performance.  
 - **Continuous Learning**: Passionate about staying updated with the latest testing tools, trends, and best practices to enhance software quality.  
 ---
-💬 **Let's Connect!**  
-📧 Email: nashrah980@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/nashrahkhanam/)
+## 📫 Get in Touch  
+
+- 📧 Email: nashrah980@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nashrahkhanam/)
+
+Feel free to reach out for collaboration, discussions, or any queries! 😊
