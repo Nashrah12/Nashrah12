@@ -37,8 +37,16 @@ I am currently working on **automation projects**, developing and executing test
 
 ### 📌 Methodologies:  
 ![Agile](https://img.shields.io/badge/Agile-green)  ![BDD](https://img.shields.io/badge/BDD-blue)  ![POM](https://img.shields.io/badge/POM-red)  
+## 🌟 Core Competencies  
 
-
+- **Manual Testing**: Strong ability to design test cases, perform smoke, regression, and exploratory testing, and detect critical issues to improve software quality.  
+- **Exploratory Testing**: Skilled in uncovering hidden bugs by exploring application features beyond predefined test cases.  
+- **Test Planning & Execution**: Experienced in creating well-structured test plans and executing tests to validate application functionality, security, and user experience.  
+- **Bug Reporting**: Proficient in documenting clear and actionable bug reports to help developers quickly resolve issues.  
+- **Agile & Team Collaboration**: Comfortable working in Agile/Scrum teams, collaborating with developers and product owners to ensure smooth and timely project delivery.  
+- **Automation Testing**: Hands-on experience with **Selenium** and **Cypress** to automate tests, increase efficiency, and maintain consistent software quality.  
+- **API Testing**: Familiar with **Postman** and **RestAssured** to validate API functionality and performance.  
+- **Continuous Learning**: Passionate about staying updated with the latest testing tools, trends, and best practices to enhance software quality.  
 ---
 💬 **Let's Connect!**  
 📧 Email: nashrah980@gmail.com  
