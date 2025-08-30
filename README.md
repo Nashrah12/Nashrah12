@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate Software Development Engineer in Test (SDET) from Varanasi, India.</h3>
 <p align="right">
   <img src="https://axolo.co/blog/_next/image?url=%2Fblog%2Fstatic%2Fimages%2Fstacked-pr%2Fmanaging-stacked-pr.png&w=1080&q=75" 
-       alt="Testing Banner" width="150">
+       alt="Testing Banner" width="200">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nashrah12&label=Profile%20views&color=0e75b6&style=flat" alt="nashrah12" /> </p>
