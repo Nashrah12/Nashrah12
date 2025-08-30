@@ -2,11 +2,6 @@
 <h3 align="center">I am a passionate Software Development Engineer in Test (SDET) from Varanasi, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nashrah12&label=Profile%20views&color=0e75b6&style=flat" alt="nashrah12" /> </p>
-<p align="right">
-  <img src="https://axolo.co/blog/_next/image?url=%2Fblog%2Fstatic%2Fimages%2Fstacked-pr%2Fmanaging-stacked-pr.png&w=1080&q=75" 
-       alt="Stacked PR" width="200">
-</p>
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nashrah12" alt="nashrah12" /></a> </p>
 
@@ -17,6 +12,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nashrahkhanam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nashrahkhanam/" height="30" width="40" /></a>
+</p>
+<p align="right">
+  <img src="https://axolo.co/blog/_next/image?url=%2Fblog%2Fstatic%2Fimages%2Fstacked-pr%2Fmanaging-stacked-pr.png&w=1080&q=75" 
+       alt="Stacked PR" width="400">
 </p>
 
 ### 🚀 My Tech Stack  
